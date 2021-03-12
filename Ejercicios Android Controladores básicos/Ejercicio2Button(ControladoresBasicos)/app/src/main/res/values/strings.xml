@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio Button</string>
+    <string name="boton1">VERDE</string>
+    <string name="texto1">MODIFICAR TEXTO EJERCICIO 2</string>
+    <string name="texto2">TEXTO 2 EJERCICIO2</string>
+    <string name="boton2">AZUL</string>
+</resources>

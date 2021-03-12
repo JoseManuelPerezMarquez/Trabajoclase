@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="codigo">codigo</string>
+    <string name="Insertar"></string>
+    <string name="InsertarNombre"></string>
+    <string name="nombre">N:</string>
+    <string name="insertar">Ins</string>
+    <string name="actualizar">Act</string>
+    <string name="eliminar">Elim</string>
+    <string name="consulta">CONS</string>
+    <string name="datosusuarios" />
+</resources>
